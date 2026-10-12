@@ -1,0 +1,24 @@
+GEOMAGNETIC FIELD REPORT
+Datamaster LLC · Geomag Calculator
+
+Model            WMM2025
+Date             2026-10-12 (decimal year 2026.7780)
+Latitude         47.918600°  (47° 55′ N)
+Longitude        106.917700°  (106° 55′ E)
+UTM (WGS84)      48N  E 643274.0  N 5309032.9
+Height           1350.0 m above sea level
+Geoid N (EGM96)  -37.19 m
+Ellipsoid height 1312.8 m
+
+Component                        Value  Unit             Change/yr  Unit
+----------------------------------------------------------------------------------
+D  Declination                   -5.63  degrees east          -3.3  arcmin/year
+I  Inclination                   68.64  degrees down          +1.6  arcmin/year
+X  North intensity             21542.1  nT                   -15.1  nT/year
+Y  East intensity              -2124.1  nT                   -19.5  nT/year
+H  Horizontal intensity        21646.6  nT                   -13.2  nT/year
+Z  Vertical intensity          55352.3  nT down              +40.6  nT/year
+F  Total intensity             59434.5  nT                   +33.0  nT/year
+
+D positive east, I positive down, Z positive down.
+Generated 2026-10-12 05:47 UTC
